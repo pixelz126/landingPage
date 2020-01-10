@@ -1,2 +1,2 @@
-# landingPage
-Simple landing page with Html &amp; Css
+# landing Page
+## Simple landing page with Html &amp; Css
